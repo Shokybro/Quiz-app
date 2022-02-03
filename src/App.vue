@@ -8,5 +8,10 @@
 </template>
 
 <style lang="scss">
-
+// html {
+//   font-size: 10px;
+// }
+body {
+  // height: 250vh;
+}
 </style>

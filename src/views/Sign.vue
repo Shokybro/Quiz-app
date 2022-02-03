@@ -143,6 +143,9 @@ export default Vue.extend({
 </script>
 
 <style scoped lang="scss">
+html {
+  font-size: 16px;
+}
 .box {
   background-color: rgb(82, 82, 82);
   padding: 1rem;
